@@ -7,3 +7,5 @@ The description of the model is published in the Journal of Dairy Science (https
 For questions about the model or the code, please contact gonzalo.vivaresmartinez@wur.nl
 
 Authors: Gonzalo Vivares, Jan Dijkstra and André Bannink from Wageningen University & Research
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7b8a13f8-a146-440c-b8b6-2e0c623f6d91" />
